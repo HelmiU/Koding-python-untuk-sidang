@@ -12,8 +12,8 @@ s.connect((ip2,8080))
 ops = {'&':operator.and_}
 ops1 = {'|':operator.or_}
 ops2 = {'^':operator.xor}
-num1 = random.randint(10,99)
-num2 = random.randint(10,99)
+num1 = random.randint(1,100)
+num2 = random.randint(1,100)
 #bits = '1111111'
 #binum1= bin(num1)[2:]
 #binum2= bin(num2)[2:]
